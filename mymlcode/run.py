@@ -13,5 +13,5 @@ v1 = np.array([2,4])
 res = kfunc.kNN_func(k, train, dest, v1, labels)
 
 #add
-print(res)
+print(res)  
 
