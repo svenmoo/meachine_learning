@@ -14,3 +14,4 @@ res = kfunc.kNN_func(k, train, dest, v1, labels)
 
 #add
 print(res)
+
